@@ -234,6 +234,9 @@ li {
   display: flex;
   justify-content: space-between;
 }
+. clients {
+  overflow: scroll;
+}
 .box2 {
   display: flex;
   flex-direction: row;
